@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: bak_seo
+subtitle: Student who want to become full-stack developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a Jekyll Theme Built For Developers
 
@@ -13,8 +13,8 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+      # - text: Shop
+      # url : /shop
     - text: Contact Me
       url : /contact
     - text: Styleguide
@@ -132,8 +132,8 @@ paginate_path: "/blog/page/:num/"
 #     category: '/category/:name/'
 
 # Shop
-collections:
- - products
+#collections:
+#- products
 
 # Gallery
 defaults:
